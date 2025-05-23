@@ -1,5 +1,3 @@
-# FoodSense 🍔🍕🍩
-
 ![FoodSense Banner](images/foodsense_banner.png) 
 
 ## 📌 Overview
